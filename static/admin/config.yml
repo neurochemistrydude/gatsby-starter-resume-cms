@@ -1,8 +1,9 @@
 backend:
-  name: github
-  repo: barancezayirli/gatsby-starter-resume-cms #TODO replace this with your own repo
+  name: git-gateway
+  branch: master
+publish_mode: editorial_workflow
 
-media_folder: static/assets
+media_folder: static/assets 
 public_folder: assets
 
 collections:
